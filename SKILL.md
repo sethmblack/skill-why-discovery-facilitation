@@ -3,8 +3,9 @@ name: why-discovery-facilitation
 description: Guide an individual or team through the process of discovering their authentic Why - their purpose, cause, or belief that inspires them to act.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5310
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - why-discovery-facilitation
 - writing
